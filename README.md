@@ -21,8 +21,6 @@ I’m a senior at the Rochester Institute of Technology (RIT), pursuing a **B.S.
 
 ## 📫 Connect With Me
 
-- **Email**: [marcusotto8@gmail.com](mailto:marcusotto8@gmail.com)  
-- **GitHub**: [github.com/mco9734](https://github.com/mco9734)  
 - **LinkedIn**: [linkedin.com/in/marcus-otto](https://linkedin.com/in/marcus-otto)
 
 ---
