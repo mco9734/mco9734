@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Marcus Otto! 👋
 
-<!--
-**mco9734/mco9734** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring Cybersecurity Professional | RIT Senior**  
+📍 Based in the U.S.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I’m a senior at the Rochester Institute of Technology (RIT), pursuing a **B.S. in Cybersecurity**. My passion lies in safeguarding digital systems, developing secure solutions, and making a tangible impact in the field of cybersecurity.
+
+---
+
+## 🛠️ Technical Skills
+
+**Languages**: Go, Python, Java, C, Arduino, Visual Basic, C++, C#, JavaScript  
+**Technologies**: GitHub, Active Directory, Docker, Azure, Proxmox, Wireshark, SQL  
+**Security Tools**: CrowdStrike Falcon, Microsoft Purview, Rapid7, Metasploit  
+
+---
+
+## 📫 Connect With Me
+
+- **Email**: [marcusotto8@gmail.com](mailto:marcusotto8@gmail.com)  
+- **GitHub**: [github.com/mco9734](https://github.com/mco9734)  
+- **LinkedIn**: [linkedin.com/in/marcus-otto](https://linkedin.com/in/marcus-otto)
+
+---
+
+⭐️ *Feel free to explore my repositories and connect! Let's build something amazing together.*  
